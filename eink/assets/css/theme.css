@@ -1,0 +1,257 @@
+a, a:hover{
+    color: #000000;
+}
+
+.alert-danger {
+    background-color: #000000;
+    border-color: #000000;
+    border-bottom-color: #000000;
+    color: #ffffff;
+}
+
+.body {
+    color: #000000;
+}
+
+.navbar-default{
+    background: #ffffff;
+    border-color: #000000;
+    color: #000000;
+}
+
+.navbar-default .navbar-text, .navbar-default .navbar-nav > li > a {
+    color: #000000;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.panel {
+    border-color: #000000;
+    box-shadow: none;
+}
+
+.panel-default > .panel-heading {
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #000000;
+}
+
+.panel-footer {
+  background-color: #ffffff;
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 1px;
+  border-top: 1px solid #000000;
+}
+
+.panel-success > .panel-heading {
+  background-color: #000000;
+  border-color: #000000;
+  color: #ffffff;
+}
+
+.panel-progress {
+    background: #ffffff;
+}
+
+.panel-collapse .panel-body {
+  padding: 0;
+}
+
+.text-danger {
+    color: #000000;
+    font-weight: bold;
+}
+
+.dropdown-menu {
+  border: 1px solid #000000;
+  border-radius: 2px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.dropdown-menu > li > a{
+  background-color: #ffffff;
+  color: #000000;
+  text-decoration: none;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{
+  background-color: #000000;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.table-striped > tbody > tr:nth-of-type(2n+1) {
+    background-color: #ffffff;
+}
+
+.table-striped > tbody > tr {
+    border-bottom: 1px solid #000000;
+}
+
+.table-striped > tbody > tr > td{
+    padding: 5px;
+}
+
+.table-striped > tbody > tr:last-of-type {
+    border-bottom: none;
+}
+
+.identicon rect {
+    fill: #333;
+}
+
+.panel-warning .identicon rect {
+    fill: #fff;
+}
+
+.li-column {
+    background-color: rgb(236, 240, 241);
+    border-radius: 3px;
+}
+
+.panel-heading:hover, .panel-heading:focus {
+    text-decoration: none;
+}
+
+.alert-info {
+    background-color: #000000;
+    border-color: #000000;
+    color: #ffffff;
+}
+
+.btn-default {
+  background-color: #ffffff;
+  border-color: #000000;
+  color: #000000;
+}
+
+.btn-default:hover {
+  background-color: #000000;
+  border-color: #000000;
+  color: #ffffff;
+}
+
+.btn-primary{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.btn-warning {
+    background-color: #ffffff;
+    border-color: #000000;
+    color: #000000;
+}
+
+.btn-primary:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.text-success, .text-warning{
+    color: #000000;
+}
+
+.ng-scope > .visible-xs{
+    display: inline-block!important;
+    margin-left: 0.5em;
+}
+
+.modal-content{
+    border: 1px solid #000000;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.fade{
+    transition: none;
+}
+
+.modal-backdrop{
+    background-color: rgba(0,0,0,0);
+}
+
+.modal.fade .modal-dialog{
+    transition: none;
+}
+
+.collapsing {
+    display: none;
+    -webkit-transition: none;
+    transition: none;
+}
+
+.img-thumbnail{
+    border: 1px solid #000000;
+}
+
+.well{
+    background-color: #ffffff;
+    border: 1px solid #000000;
+}
+
+.help-block{
+    color: #000000;
+}
+
+.fancytree-container tr:hover,
+.fancytree-focused {
+    background-color: #eeeeee;
+}
+
+.reception {
+    filter: invert(12%) sepia(11%) saturate(20%) hue-rotate(318deg) brightness(100%) contrast(80%);
+}
+
+.form-control {
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #000000;
+    -o-transition: none;
+    -webkit-transition: none;
+    transition: none;
+}
+
+.modal-header {
+    border-bottom: 1px solid #000000;
+}
+
+.modal-footer {
+    border-top: 1px solid #000000;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #000000;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    border-bottom-color: rgb(221, 221, 221);
+    border-bottom-color: transparent;
+    color: #000000;
+    cursor: default;
+}
+
+.nav-tabs > li > a:hover {
+    border-color: #000000;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color: #ffffff;
+}
+
+.badge {
+    background-color: #000000;
+}
